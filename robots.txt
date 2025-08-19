@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://oatgrove.com/sitemap.xml
